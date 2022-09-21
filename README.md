@@ -6,7 +6,7 @@ Software engineer
 Life
 ----
 
-<img align="right" src="img/software_engineer.png">
+<img width="200" align="right" src="img/software_engineer.png">
 
 🏫 [**Drexel University**][drexel] Computer Science '24
 
@@ -36,5 +36,9 @@ Projects
 Contact
 -----
 <a href="https://www.linkedin.com/in/tridt">
-    <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
+    <img height="32" align="left" alt="LinkedIn" src="img/linkedin.png" />
+</a>
+
+<a href="mailto:truongductri01@gmail.com">
+    <img height="32" align="left" alt="Gmail" src="img/gmail.png" />
 </a>
